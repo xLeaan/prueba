@@ -1,1 +1,1 @@
-COnsulta de API externa, personajes de Rick y Morty
+Consulta de API externa, personajes de Rick y Morty
